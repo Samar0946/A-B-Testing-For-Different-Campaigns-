@@ -1,0 +1,3 @@
+Campaign Type,Spend [USD],# of Impressions,Reach,# of Website Clicks,# of Searches,# of View Content,# of Add to Cart,# of Purchase,CTR (%),Conversion Rate (%),CPA (USD),ROAS
+Control,68653,3177233.0,2576503.0,154303.0,64418.0,56370.0,37700.0,15161.0,4.86,0.59,4.53,11.04
+Test,76892,2237544.0,1604747.0,180970.0,72569.0,55740.0,26446.0,15637.0,8.09,0.97,4.92,10.17
